@@ -2,5 +2,4 @@
  tata letak : Welcome
  : " Selamat datang di slide kedua kami! "
 ---
-Teks Anda 
-Gunakan panah kiri untuk kembali!
+Welcome to my file 
